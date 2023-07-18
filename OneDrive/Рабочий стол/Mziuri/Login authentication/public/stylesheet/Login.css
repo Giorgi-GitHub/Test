@@ -1,0 +1,46 @@
+body {
+    background-color: #567582;
+    background-image: url("../stylesheet/pexels-roberto-nickson-2775196.jpg");
+    background-size: 1920px 1080px;
+}
+
+#nav {
+    background-color: transparent;
+}
+
+.card {
+    width: 400px;
+    height: 56vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
+    background-color:blanchedalmond;
+}
+
+.input-card {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.form-group {
+    width: 300px;
+}
+
+.form-group-1 {
+    margin-left: -50px;
+}
+
+.form-group-1 label {
+    color: red;
+    font-weight: 500;
+}
+
+.form-control {
+    border: 2px solid black;
+}

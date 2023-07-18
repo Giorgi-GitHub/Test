@@ -1,0 +1,52 @@
+body {
+  background-color: #567582;
+}
+
+.login-box {
+  background-color: #f7dda4;
+}
+
+
+
+#left-text {
+  font-family: 'Outfit', sans-serif;
+  color: #f7dda4;
+}
+
+#left-text h1 {
+  color: #464d5c
+}
+
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.login span p a {
+  font-size: 1.2rem;
+  font-weight: 500;
+  text-shadow: 1px 1px #567582;
+  text-decoration: none;
+}
+
+#contact-div {
+    color: #f7dda4;
+}
+
+.ul-column {
+  color: antiquewhite;
+}
+
+.column-li {
+  color: antiquewhite;
+} 
+
+.h5 {
+  color: #f7dda4;
+}
+
+
+
